@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+wandb/
+outputs/
+*.log
+*.out
+.building
+.DS_Store

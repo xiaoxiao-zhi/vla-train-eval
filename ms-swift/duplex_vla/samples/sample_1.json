@@ -1,0 +1,405 @@
+{
+ "base": "cheeky-cornflower-setter-f153ac423f61-20211228-121912-4309-4334",
+ "instruction": "Break the sand block.",
+ "qa": {
+  "question": "Name the Confederate warship built at Birkenhead and sunk off Cherbourg.",
+  "answer": "CSS Alabama",
+  "answer_ids": [
+   33658,
+   20623
+  ],
+  "insert_step": 9,
+  "answer_token_total": 2
+ },
+ "turns": [
+  {
+   "t": 0,
+   "user_text": "Break the sand block.\nobservation: \n",
+   "frame": "cheeky-cornflower-setter-f153ac423f61-20211228-121912-4309-4334_f000000.jpg",
+   "action_ids": [
+    151835,
+    151861,
+    151878,
+    151895,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_204|><|reserved_special_token_221|><|reserved_special_token_238|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 1,
+   "user_text": "observation: \n",
+   "frame": "cheeky-cornflower-setter-f153ac423f61-20211228-121912-4309-4334_f000001.jpg",
+   "action_ids": [
+    151835,
+    151861,
+    151878,
+    151893,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_204|><|reserved_special_token_221|><|reserved_special_token_236|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 2,
+   "user_text": "observation: \n",
+   "frame": "cheeky-cornflower-setter-f153ac423f61-20211228-121912-4309-4334_f000002.jpg",
+   "action_ids": [
+    151835,
+    151861,
+    151879,
+    151893,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_204|><|reserved_special_token_222|><|reserved_special_token_236|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 3,
+   "user_text": "observation: \n",
+   "frame": "cheeky-cornflower-setter-f153ac423f61-20211228-121912-4309-4334_f000003.jpg",
+   "action_ids": [
+    151835,
+    151861,
+    151880,
+    151890,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_204|><|reserved_special_token_223|><|reserved_special_token_233|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 4,
+   "user_text": "observation: \n",
+   "frame": "cheeky-cornflower-setter-f153ac423f61-20211228-121912-4309-4334_f000004.jpg",
+   "action_ids": [
+    151835,
+    151861,
+    151878,
+    151888,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_204|><|reserved_special_token_221|><|reserved_special_token_231|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 5,
+   "user_text": "observation: \n",
+   "frame": "cheeky-cornflower-setter-f153ac423f61-20211228-121912-4309-4334_f000005.jpg",
+   "action_ids": [
+    151835,
+    151861,
+    151876,
+    151887,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_230|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 6,
+   "user_text": "observation: \n",
+   "frame": "cheeky-cornflower-setter-f153ac423f61-20211228-121912-4309-4334_f000006.jpg",
+   "action_ids": [
+    151835,
+    151861,
+    151876,
+    151887,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_230|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 7,
+   "user_text": "observation: \n",
+   "frame": "cheeky-cornflower-setter-f153ac423f61-20211228-121912-4309-4334_f000007.jpg",
+   "action_ids": [
+    151835,
+    151861,
+    151876,
+    151893,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_236|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 8,
+   "user_text": "observation: \n",
+   "frame": "cheeky-cornflower-setter-f153ac423f61-20211228-121912-4309-4334_f000008.jpg",
+   "action_ids": [
+    151835,
+    151861,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 9,
+   "user_text": "Name the Confederate warship built at Birkenhead and sunk off Cherbourg.\nobservation: \n",
+   "frame": "cheeky-cornflower-setter-f153ac423f61-20211228-121912-4309-4334_f000009.jpg",
+   "action_ids": [
+    151835,
+    151861,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": [
+    33658,
+    20623
+   ],
+   "text": "CSS Alabama"
+  },
+  {
+   "t": 10,
+   "user_text": "observation: \n",
+   "frame": "cheeky-cornflower-setter-f153ac423f61-20211228-121912-4309-4334_f000010.jpg",
+   "action_ids": [
+    151835,
+    151861,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 11,
+   "user_text": "observation: \n",
+   "frame": "cheeky-cornflower-setter-f153ac423f61-20211228-121912-4309-4334_f000011.jpg",
+   "action_ids": [
+    151835,
+    151861,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 12,
+   "user_text": "observation: \n",
+   "frame": "cheeky-cornflower-setter-f153ac423f61-20211228-121912-4309-4334_f000012.jpg",
+   "action_ids": [
+    151835,
+    151861,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 13,
+   "user_text": "observation: \n",
+   "frame": "cheeky-cornflower-setter-f153ac423f61-20211228-121912-4309-4334_f000013.jpg",
+   "action_ids": [
+    151835,
+    151861,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 14,
+   "user_text": "observation: \n",
+   "frame": "cheeky-cornflower-setter-f153ac423f61-20211228-121912-4309-4334_f000014.jpg",
+   "action_ids": [
+    151835,
+    151861,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 15,
+   "user_text": "observation: \n",
+   "frame": "cheeky-cornflower-setter-f153ac423f61-20211228-121912-4309-4334_f000015.jpg",
+   "action_ids": [
+    151835,
+    151861,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 16,
+   "user_text": "observation: \n",
+   "frame": "cheeky-cornflower-setter-f153ac423f61-20211228-121912-4309-4334_f000016.jpg",
+   "action_ids": [
+    151835,
+    151861,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 17,
+   "user_text": "observation: \n",
+   "frame": "cheeky-cornflower-setter-f153ac423f61-20211228-121912-4309-4334_f000017.jpg",
+   "action_ids": [
+    151835,
+    151861,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 18,
+   "user_text": "observation: \n",
+   "frame": "cheeky-cornflower-setter-f153ac423f61-20211228-121912-4309-4334_f000018.jpg",
+   "action_ids": [
+    151835,
+    151861,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 19,
+   "user_text": "observation: \n",
+   "frame": "cheeky-cornflower-setter-f153ac423f61-20211228-121912-4309-4334_f000019.jpg",
+   "action_ids": [
+    151835,
+    151861,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 20,
+   "user_text": "observation: \n",
+   "frame": "cheeky-cornflower-setter-f153ac423f61-20211228-121912-4309-4334_f000020.jpg",
+   "action_ids": [
+    151835,
+    151861,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 21,
+   "user_text": "observation: \n",
+   "frame": "cheeky-cornflower-setter-f153ac423f61-20211228-121912-4309-4334_f000021.jpg",
+   "action_ids": [
+    151835,
+    151861,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 22,
+   "user_text": "observation: \n",
+   "frame": "cheeky-cornflower-setter-f153ac423f61-20211228-121912-4309-4334_f000022.jpg",
+   "action_ids": [
+    151835,
+    151878,
+    151896,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_221|><|reserved_special_token_239|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 23,
+   "user_text": "observation: \n",
+   "frame": "cheeky-cornflower-setter-f153ac423f61-20211228-121912-4309-4334_f000023.jpg",
+   "action_ids": [
+    151835,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 24,
+   "user_text": "observation: \n",
+   "frame": "cheeky-cornflower-setter-f153ac423f61-20211228-121912-4309-4334_f000024.jpg",
+   "action_ids": [
+    151835,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 25,
+   "user_text": "observation: \n",
+   "frame": "cheeky-cornflower-setter-f153ac423f61-20211228-121912-4309-4334_f000025.jpg",
+   "action_ids": [
+    151835,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  }
+ ]
+}

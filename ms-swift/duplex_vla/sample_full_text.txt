@@ -1,0 +1,35 @@
+======================================================================
+全双工训练样本完整序列 (总 1047 token, 其中 labels 有效 11 个)
+act_span=[1036, 1041] txt_span=[1041, 1046]  (目标段 = [act]..动作..[txt]..文本..<im_end>)
+======================================================================
+
+
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+
+
+<|im_start|>user
+<user>Gather the oxeye daisy for crafting.<txt><silence><user><silence><txt><silence><user><silence><txt><silence><user><silence><txt><silence><user><silence><txt><silence><user><silence><txt><silence><user><silence><txt><silence><user><silence><txt><silence><user><silence><txt><silence><user><silence><txt><silence><user><silence><txt><silence><user><silence><txt><silence><user><silence><txt><silence><user><silence><txt><silence><user><silence><txt><silence><user><silence><txt><silence><user><silence><txt><silence><user><silence><obs><图像x299><act><BEGIN>R223R247<END><txt><silence><user><silence><obs><图像x299><act><BEGIN>R225R249<END><txt><silence><user>Hadfield near Glossop became the fictional town of Royston Vasey in which TV series?<obs><图像x299><|im_end|>
+
+
+<|im_start|>assistant
+<act><BEGIN>R221R245<END><txt>League of Gentlemen<|im_end|>
+
+
+▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼ 目标段开始 (唯一计算 loss 的部分) ▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
+
+
+
+======================================================================
+目标段逐 token:
+  pos 1036  id=151910  <act>            label=151910
+  pos 1037  id=151835  <BEGIN>          label=151835
+  pos 1038  id=151878  <|reserved_special_token_221|> label=151878
+  pos 1039  id=151902  <|reserved_special_token_245|> label=151902
+  pos 1040  id=151836  <END>            label=151836
+  pos 1041  id=151911  <txt>            label=151911
+  pos 1042  id= 70107  League           label=70107
+  pos 1043  id=   315  Ġof              label=315
+  pos 1044  id= 35723  ĠGent            label=35723
+  pos 1045  id= 41307  lemen            label=41307
+  pos 1046  id=151645  <|im_end|>       label=151645

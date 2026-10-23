@@ -1,0 +1,11 @@
+{
+ "ids": {
+  "<|duplex_user|>": 151908,
+  "<|duplex_obs|>": 151909,
+  "<|duplex_act|>": 151910,
+  "<|duplex_txt|>": 151911,
+  "<|silence|>": 151912
+ },
+ "vocab_base": 151908,
+ "source": "/apdcephfs/share_chengzhixu/cephfs/apdcephfs_tj5/share_303556863/chengzhixu/HF_MODEL/JarvisVLA-Qwen2-VL-7B"
+}

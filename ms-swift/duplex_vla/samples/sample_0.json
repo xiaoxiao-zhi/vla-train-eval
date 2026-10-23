@@ -1,0 +1,449 @@
+{
+ "base": "Player276-f153ac423f61-20220119-135121-1705-1729",
+ "instruction": "Mine polished diorite for building materials.",
+ "qa": {
+  "question": "As at 2010, how many bicycles are in the world, compared to motor cars?",
+  "answer": "Double",
+  "answer_ids": [
+   7378
+  ],
+  "insert_step": 13,
+  "answer_token_total": 1
+ },
+ "turns": [
+  {
+   "t": 0,
+   "user_text": "Mine polished diorite for building materials.\nobservation: \n",
+   "frame": "Player276-f153ac423f61-20220119-135121-1705-1729_f000000.jpg",
+   "action_ids": [
+    151835,
+    151848,
+    151855,
+    151861,
+    151875,
+    151898,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_191|><|reserved_special_token_198|><|reserved_special_token_204|><|reserved_special_token_218|><|reserved_special_token_241|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 1,
+   "user_text": "observation: \n",
+   "frame": "Player276-f153ac423f61-20220119-135121-1705-1729_f000001.jpg",
+   "action_ids": [
+    151835,
+    151848,
+    151855,
+    151861,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_191|><|reserved_special_token_198|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 2,
+   "user_text": "observation: \n",
+   "frame": "Player276-f153ac423f61-20220119-135121-1705-1729_f000002.jpg",
+   "action_ids": [
+    151835,
+    151848,
+    151855,
+    151861,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_191|><|reserved_special_token_198|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 3,
+   "user_text": "observation: \n",
+   "frame": "Player276-f153ac423f61-20220119-135121-1705-1729_f000003.jpg",
+   "action_ids": [
+    151835,
+    151848,
+    151855,
+    151861,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_191|><|reserved_special_token_198|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 4,
+   "user_text": "observation: \n",
+   "frame": "Player276-f153ac423f61-20220119-135121-1705-1729_f000004.jpg",
+   "action_ids": [
+    151835,
+    151848,
+    151855,
+    151861,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_191|><|reserved_special_token_198|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 5,
+   "user_text": "observation: \n",
+   "frame": "Player276-f153ac423f61-20220119-135121-1705-1729_f000005.jpg",
+   "action_ids": [
+    151835,
+    151848,
+    151855,
+    151861,
+    151880,
+    151891,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_191|><|reserved_special_token_198|><|reserved_special_token_204|><|reserved_special_token_223|><|reserved_special_token_234|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 6,
+   "user_text": "observation: \n",
+   "frame": "Player276-f153ac423f61-20220119-135121-1705-1729_f000006.jpg",
+   "action_ids": [
+    151835,
+    151848,
+    151851,
+    151855,
+    151861,
+    151882,
+    151887,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_191|><|reserved_special_token_194|><|reserved_special_token_198|><|reserved_special_token_204|><|reserved_special_token_225|><|reserved_special_token_230|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 7,
+   "user_text": "observation: \n",
+   "frame": "Player276-f153ac423f61-20220119-135121-1705-1729_f000007.jpg",
+   "action_ids": [
+    151835,
+    151848,
+    151851,
+    151855,
+    151861,
+    151878,
+    151891,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_191|><|reserved_special_token_194|><|reserved_special_token_198|><|reserved_special_token_204|><|reserved_special_token_221|><|reserved_special_token_234|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 8,
+   "user_text": "observation: \n",
+   "frame": "Player276-f153ac423f61-20220119-135121-1705-1729_f000008.jpg",
+   "action_ids": [
+    151835,
+    151848,
+    151851,
+    151855,
+    151861,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_191|><|reserved_special_token_194|><|reserved_special_token_198|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 9,
+   "user_text": "observation: \n",
+   "frame": "Player276-f153ac423f61-20220119-135121-1705-1729_f000009.jpg",
+   "action_ids": [
+    151835,
+    151848,
+    151851,
+    151855,
+    151861,
+    151875,
+    151895,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_191|><|reserved_special_token_194|><|reserved_special_token_198|><|reserved_special_token_204|><|reserved_special_token_218|><|reserved_special_token_238|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 10,
+   "user_text": "observation: \n",
+   "frame": "Player276-f153ac423f61-20220119-135121-1705-1729_f000010.jpg",
+   "action_ids": [
+    151835,
+    151848,
+    151855,
+    151861,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_191|><|reserved_special_token_198|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 11,
+   "user_text": "observation: \n",
+   "frame": "Player276-f153ac423f61-20220119-135121-1705-1729_f000011.jpg",
+   "action_ids": [
+    151835,
+    151848,
+    151855,
+    151861,
+    151874,
+    151899,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_191|><|reserved_special_token_198|><|reserved_special_token_204|><|reserved_special_token_217|><|reserved_special_token_242|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 12,
+   "user_text": "observation: \n",
+   "frame": "Player276-f153ac423f61-20220119-135121-1705-1729_f000012.jpg",
+   "action_ids": [
+    151835,
+    151848,
+    151855,
+    151861,
+    151873,
+    151902,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_191|><|reserved_special_token_198|><|reserved_special_token_204|><|reserved_special_token_216|><|reserved_special_token_245|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 13,
+   "user_text": "As at 2010, how many bicycles are in the world, compared to motor cars?\nobservation: \n",
+   "frame": "Player276-f153ac423f61-20220119-135121-1705-1729_f000013.jpg",
+   "action_ids": [
+    151835,
+    151848,
+    151855,
+    151861,
+    151873,
+    151907,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_191|><|reserved_special_token_198|><|reserved_special_token_204|><|reserved_special_token_216|><|reserved_special_token_250|><|reserved_special_token_179|>",
+   "text_ids": [
+    7378
+   ],
+   "text": "Double"
+  },
+  {
+   "t": 14,
+   "user_text": "observation: \n",
+   "frame": "Player276-f153ac423f61-20220119-135121-1705-1729_f000014.jpg",
+   "action_ids": [
+    151835,
+    151848,
+    151855,
+    151861,
+    151878,
+    151907,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_191|><|reserved_special_token_198|><|reserved_special_token_204|><|reserved_special_token_221|><|reserved_special_token_250|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 15,
+   "user_text": "observation: \n",
+   "frame": "Player276-f153ac423f61-20220119-135121-1705-1729_f000015.jpg",
+   "action_ids": [
+    151835,
+    151848,
+    151855,
+    151861,
+    151873,
+    151907,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_191|><|reserved_special_token_198|><|reserved_special_token_204|><|reserved_special_token_216|><|reserved_special_token_250|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 16,
+   "user_text": "observation: \n",
+   "frame": "Player276-f153ac423f61-20220119-135121-1705-1729_f000016.jpg",
+   "action_ids": [
+    151835,
+    151848,
+    151855,
+    151861,
+    151874,
+    151900,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_191|><|reserved_special_token_198|><|reserved_special_token_204|><|reserved_special_token_217|><|reserved_special_token_243|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 17,
+   "user_text": "observation: \n",
+   "frame": "Player276-f153ac423f61-20220119-135121-1705-1729_f000017.jpg",
+   "action_ids": [
+    151835,
+    151848,
+    151855,
+    151861,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_191|><|reserved_special_token_198|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 18,
+   "user_text": "observation: \n",
+   "frame": "Player276-f153ac423f61-20220119-135121-1705-1729_f000018.jpg",
+   "action_ids": [
+    151835,
+    151848,
+    151855,
+    151861,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_191|><|reserved_special_token_198|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 19,
+   "user_text": "observation: \n",
+   "frame": "Player276-f153ac423f61-20220119-135121-1705-1729_f000019.jpg",
+   "action_ids": [
+    151835,
+    151848,
+    151855,
+    151861,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_191|><|reserved_special_token_198|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 20,
+   "user_text": "observation: \n",
+   "frame": "Player276-f153ac423f61-20220119-135121-1705-1729_f000020.jpg",
+   "action_ids": [
+    151835,
+    151848,
+    151855,
+    151861,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_191|><|reserved_special_token_198|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 21,
+   "user_text": "observation: \n",
+   "frame": "Player276-f153ac423f61-20220119-135121-1705-1729_f000021.jpg",
+   "action_ids": [
+    151835,
+    151848,
+    151855,
+    151861,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_191|><|reserved_special_token_198|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 22,
+   "user_text": "observation: \n",
+   "frame": "Player276-f153ac423f61-20220119-135121-1705-1729_f000022.jpg",
+   "action_ids": [
+    151835,
+    151848,
+    151851,
+    151855,
+    151861,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_191|><|reserved_special_token_194|><|reserved_special_token_198|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 23,
+   "user_text": "observation: \n",
+   "frame": "Player276-f153ac423f61-20220119-135121-1705-1729_f000023.jpg",
+   "action_ids": [
+    151835,
+    151848,
+    151851,
+    151855,
+    151861,
+    151881,
+    151906,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_191|><|reserved_special_token_194|><|reserved_special_token_198|><|reserved_special_token_204|><|reserved_special_token_224|><|reserved_special_token_249|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 24,
+   "user_text": "observation: \n",
+   "frame": "Player276-f153ac423f61-20220119-135121-1705-1729_f000024.jpg",
+   "action_ids": [
+    151835,
+    151848,
+    151851,
+    151855,
+    151861,
+    151880,
+    151907,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_191|><|reserved_special_token_194|><|reserved_special_token_198|><|reserved_special_token_204|><|reserved_special_token_223|><|reserved_special_token_250|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  }
+ ]
+}

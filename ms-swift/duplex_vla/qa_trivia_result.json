@@ -1,0 +1,606 @@
+{
+ "n": 100,
+ "em": 0.55,
+ "results": [
+  {
+   "q": "What long running public radio program, and short lived TV series, debuted in 1995 as Your",
+   "gold": "This American Life",
+   "pred": "The Gong Show",
+   "em": false
+  },
+  {
+   "q": "A polygraph is more popularly called a?",
+   "gold": "Lie detector",
+   "pred": "Lie Detector",
+   "em": true
+  },
+  {
+   "q": "Which King of England sold Dunkirk to Louis XIV of France?",
+   "gold": "Charles II",
+   "pred": "James II",
+   "em": false
+  },
+  {
+   "q": "Which French chemist, regarded as the father of modern chemistry, was guillotined in 1794?",
+   "gold": "LAVOISIER",
+   "pred": "ANTHONY LAVOISIER",
+   "em": true
+  },
+  {
+   "q": "The Springfield, Mass YMCA saw the first game of what played on January 20, 1892, when 9 p",
+   "gold": "Basketball",
+   "pred": "Basketball",
+   "em": true
+  },
+  {
+   "q": "What football team did Arsene Wenger manage immediately before Arsenal?",
+   "gold": "(NAGOYA) GRAMPUS EIGHT",
+   "pred": "Olympique de Marseille",
+   "em": false
+  },
+  {
+   "q": "Blind Hughie, Sebastapol, All Fives and Block are all forms of which popular game?",
+   "gold": "DOMINOES",
+   "pred": "Darts",
+   "em": false
+  },
+  {
+   "q": "Where did Richard III ‘imprison’ his two young nephews in order to eliminate them from suc",
+   "gold": "Tower of London",
+   "pred": "The Tower of London",
+   "em": true
+  },
+  {
+   "q": "Which African country changed its capital city from Zomba to Lilongwe in January 1975?",
+   "gold": "Malawi",
+   "pred": "MALAWI",
+   "em": true
+  },
+  {
+   "q": "Fritz Kreisler (1875-1962) was a virtuoso on which instrument?",
+   "gold": "Violin",
+   "pred": "VIOLIN",
+   "em": true
+  },
+  {
+   "q": "What is the name of the tool used to sharpen a knife?",
+   "gold": "Steel",
+   "pred": "The tool used to sharpen a knife is called a stone or stone hone.",
+   "em": false
+  },
+  {
+   "q": "In which Commonwealth country are the Southern Alps?",
+   "gold": "New Zealand",
+   "pred": "NEW ZEALAND",
+   "em": true
+  },
+  {
+   "q": "St John's is the capital of which Canadian Province?",
+   "gold": "NEWFOUNDLAND",
+   "pred": "NEWFOUNDLAND",
+   "em": true
+  },
+  {
+   "q": "Greek philosopher Socrates was sentenced to death by drinking which kind of poison ?",
+   "gold": "HEMLOCK",
+   "pred": "MILK OF MAGNESIA",
+   "em": false
+  },
+  {
+   "q": "Which Mexican dish is a steamed corn husk filled with meat or vegetables coated in masa do",
+   "gold": "Tamale",
+   "pred": "Tamales",
+   "em": true
+  },
+  {
+   "q": "Give a year in the life of Emily Bronte.",
+   "gold": "1818-1848",
+   "pred": "1818-1848",
+   "em": true
+  },
+  {
+   "q": "The airport Guglielmo Marconi is the airport of which city?",
+   "gold": "BOLOGNA",
+   "pred": "Bologna",
+   "em": true
+  },
+  {
+   "q": "Vingt-et-Un is which number in English?",
+   "gold": "Twenty One",
+   "pred": "Twenty-one",
+   "em": true
+  },
+  {
+   "q": "Which local radio station broadcasts to Wigan and St. Helens on 102.4 FM?",
+   "gold": "WISH (FM)",
+   "pred": "RADIO X",
+   "em": false
+  },
+  {
+   "q": "\"What did Shylock ask for a pound of in \"\"The Merchant of Venice\"\"?\"",
+   "gold": "Flesh",
+   "pred": "Christian blood",
+   "em": false
+  },
+  {
+   "q": "Bosworth cheese comes from which English county?",
+   "gold": "Staffordshire",
+   "pred": "Leicestershire",
+   "em": false
+  },
+  {
+   "q": "Which Eastenders actor has played the policeman Nick Rowan on TV?",
+   "gold": "Nick Berry",
+   "pred": "Nick Berry",
+   "em": true
+  },
+  {
+   "q": "In which month of 1929 did the St Valentines Day massacre take place?",
+   "gold": "February",
+   "pred": "February",
+   "em": true
+  },
+  {
+   "q": "What is the most common bird in the world?",
+   "gold": "Chicken",
+   "pred": "The most common bird in the world is the house sparrow, with an estimated population of ov",
+   "em": false
+  },
+  {
+   "q": "Where are New Zealand's parliament buildings?",
+   "gold": "Wellington",
+   "pred": "Wellington",
+   "em": true
+  },
+  {
+   "q": "Breugel; Van Dyck and Rubens were all citizens of which country?",
+   "gold": "Belgium",
+   "pred": "Belgium",
+   "em": true
+  },
+  {
+   "q": "Round the Clock, Hare and Hounds, Cricket and Shanghai are all games played on which type ",
+   "gold": "Dartboard",
+   "pred": "Checkers",
+   "em": false
+  },
+  {
+   "q": "Who bought Chelsea football club for £1 in 1982?",
+   "gold": "Ken Bates",
+   "pred": "Roman Abramovich",
+   "em": false
+  },
+  {
+   "q": "Who played Gomez Addams in the 1993 film ‘Addams Family Values’?",
+   "gold": "Raul Julia",
+   "pred": "Anthony Hopkins",
+   "em": false
+  },
+  {
+   "q": "\"Who developed the men's scent \"\"I Am King\"\", which was first marketed in February 2009?\"",
+   "gold": "Sean Combs",
+   "pred": "Prince William",
+   "em": false
+  },
+  {
+   "q": "What was the name of the Roman road that stretched from Dover, Kent, almost to Shrewsbury,",
+   "gold": "Watling Street",
+   "pred": "Fosse Way",
+   "em": false
+  },
+  {
+   "q": "What country changed its name to Burkina Faso?",
+   "gold": "Republic of Upper Volta",
+   "pred": "Upper Volta",
+   "em": false
+  },
+  {
+   "q": "The Battle of the Plains of Abraham in 1759, a pivotal battle in the Seven Years' War foug",
+   "gold": "Canada",
+   "pred": "Canada",
+   "em": true
+  },
+  {
+   "q": "What is the name of the A1 Pacific steam locomotive which was completed in 2009 and is the",
+   "gold": "'TORNADO'",
+   "pred": "Tornado",
+   "em": true
+  },
+  {
+   "q": "Who was the seventh president of the United States?",
+   "gold": "Andrew Jackson",
+   "pred": "Thomas Jefferson",
+   "em": false
+  },
+  {
+   "q": "In WWII, who was the head of the Nazi party's security service?",
+   "gold": "Reinhard Heidrich",
+   "pred": "Hans Lammers",
+   "em": false
+  },
+  {
+   "q": "In Greek mythology, who was the mother of Perseus visited by Zeus disguised as a shower of",
+   "gold": "DANAE",
+   "pred": "Danae",
+   "em": true
+  },
+  {
+   "q": "Which car company advertises with the slogan The best or nothing",
+   "gold": "Mercedes-Benz",
+   "pred": "Mercedes",
+   "em": false
+  },
+  {
+   "q": "What city, Chile's second largest, suffered an 8.8 earthquake in 2010?",
+   "gold": "Concepcion",
+   "pred": "Santiago",
+   "em": false
+  },
+  {
+   "q": "\"Which city was the target of the first \"\"Thousand Bomber Raid\"\" on May 30th/31st 1942?\"",
+   "gold": "Cologne",
+   "pred": "LONDON",
+   "em": false
+  },
+  {
+   "q": "\"In Italy, if you were served \"\"Mortadella\"\", what foodstuff would you be about to eat ?\"",
+   "gold": "SAUSAGE",
+   "pred": "MEAT",
+   "em": false
+  },
+  {
+   "q": "Charles Lindbergh died in 1974. Where was he buried?",
+   "gold": "Hawaii",
+   "pred": "INDIA",
+   "em": false
+  },
+  {
+   "q": "Jackpot Counter, Ghost Drop and Drop Zone are all terms used in which UK television game s",
+   "gold": "Tipping Point",
+   "pred": "The Chase",
+   "em": false
+  },
+  {
+   "q": "What is added to a martini to make a 'Bronx' cocktail?",
+   "gold": "Orange juice",
+   "pred": "Ginger beer",
+   "em": false
+  },
+  {
+   "q": "What colour on the London underground map is the District Line",
+   "gold": "Green",
+   "pred": "Green",
+   "em": true
+  },
+  {
+   "q": "Who was installed as Anglican Bishop of Liverpool in November 2014?",
+   "gold": "(Rt Rev) Paul Bayes",
+   "pred": "David Moxon",
+   "em": false
+  },
+  {
+   "q": "In which opera do the characters 'Ned Keene' and 'Bob Boles' appear?",
+   "gold": "'PETER GRIMES'",
+   "pred": "'LA BOHEME'",
+   "em": false
+  },
+  {
+   "q": "'The Deep' is an aquarium at the confluence of which river with the Humber Estuary?",
+   "gold": "(River) HULL",
+   "pred": "HUMPHREY'S",
+   "em": false
+  },
+  {
+   "q": "Who was the author of 'The Old Curiosity Shop'?",
+   "gold": "Charles Dickens",
+   "pred": "Charles Dickens",
+   "em": true
+  },
+  {
+   "q": "What separates East and West Malaysia?",
+   "gold": "South China Sea",
+   "pred": "SOUTH CHINA SEA",
+   "em": true
+  },
+  {
+   "q": "The Paragons originally recorded which 1980 hit single by Blondie?",
+   "gold": "The Tide is High",
+   "pred": "Heart Of Glass",
+   "em": false
+  },
+  {
+   "q": "Herb of Grace is the name given to which strong- smelling herb?",
+   "gold": "Rue",
+   "pred": "OREGANO",
+   "em": false
+  },
+  {
+   "q": "In which country is Lake Bala",
+   "gold": "Wales",
+   "pred": "Wales",
+   "em": true
+  },
+  {
+   "q": "Which wedding anniversary is celebrated with paper",
+   "gold": "1st",
+   "pred": "First",
+   "em": true
+  },
+  {
+   "q": "What is a measure of the disorder of a system?",
+   "gold": "Entropy",
+   "pred": "Entropy",
+   "em": true
+  },
+  {
+   "q": "A 'Clumber' is a breed of which dog?",
+   "gold": "Spaniel",
+   "pred": "SQUIRREL HOUND",
+   "em": false
+  },
+  {
+   "q": "What nationality was three time Olympic gold medallist in figure skating Sonja Henie?",
+   "gold": "Norwegian",
+   "pred": "Norwegian",
+   "em": true
+  },
+  {
+   "q": "Inspiring such things as a television program, a breakfast cereal, and hit song, what imme",
+   "gold": "Pac-Man",
+   "pred": "Pac-Man",
+   "em": true
+  },
+  {
+   "q": "Which was the first US state to secede from the Union in December 1860; the first action o",
+   "gold": "South Carolina",
+   "pred": "SOUTH CAROLINA",
+   "em": true
+  },
+  {
+   "q": "Which journalist first told the world about the My Lai massacre?",
+   "gold": "Seymour Hersh",
+   "pred": "PIERRE BONNARD",
+   "em": false
+  },
+  {
+   "q": "What dish, especially popular in parts of Wales and the English Midlands,  is traditionall",
+   "gold": "Faggots",
+   "pred": "Haggis",
+   "em": false
+  },
+  {
+   "q": "Loosely translated, Aleph Beth Gimel Daleth are the first four letters of what alphabet?",
+   "gold": "Hebrew",
+   "pred": "Hebrew",
+   "em": true
+  },
+  {
+   "q": "One Summer: America 1927 is a 2013 history book by which author?",
+   "gold": "BILL BRYSON",
+   "pred": "Bill Bryson",
+   "em": true
+  },
+  {
+   "q": "In Arthurian legend, the Fisher King is is the keeper of which relic?",
+   "gold": "The Holy Grail",
+   "pred": "Holy Grail",
+   "em": true
+  },
+  {
+   "q": "Which ‘P’ was the last king of Troy, according to Greek mythology?",
+   "gold": "PRIAM",
+   "pred": "Priam",
+   "em": true
+  },
+  {
+   "q": "An American ban lasting 21 years was lifted in 2010 for what Scottish food?",
+   "gold": "Haggis",
+   "pred": "Haggis",
+   "em": true
+  },
+  {
+   "q": "\"The musical \"\"The Sound of Music\"\" is associated with which geographical area?\"",
+   "gold": "Austria",
+   "pred": "Austria",
+   "em": true
+  },
+  {
+   "q": "Mistral, chinook, zonda, and willy-willy are types of which planet Earth feature?",
+   "gold": "Winds",
+   "pred": "Wind",
+   "em": true
+  },
+  {
+   "q": "Who became the first BDO Women's World Darts Champion in 2001, winning her sixth world tit",
+   "gold": "TRINA GULLIVER",
+   "pred": "Dawn Porter",
+   "em": false
+  },
+  {
+   "q": "The fictional character ‘Disco Stu’ appears in which US cartoon tv Series?",
+   "gold": "The Simpsons",
+   "pred": "The Simpsons",
+   "em": true
+  },
+  {
+   "q": "Fleurie, Morgon and Brouilly are wines from which French wine region?",
+   "gold": "BEAUJOLAIS",
+   "pred": "BEAUJOLAIS",
+   "em": true
+  },
+  {
+   "q": "\"How many people made up the English pop rock group \"\"Tears For Fears\"\"?\"",
+   "gold": "2",
+   "pred": "Two",
+   "em": true
+  },
+  {
+   "q": "\"From which musical does the song \"\"Till There Was You\"\" come from?\"",
+   "gold": "THE MUSIC MAN",
+   "pred": "The Music Man",
+   "em": true
+  },
+  {
+   "q": "Historical figures John Rann, John MacLaine, James Hind and Claude Duval were all notoriou",
+   "gold": "Highwaymen",
+   "pred": "Robbers",
+   "em": false
+  },
+  {
+   "q": "What is the capital of Washington state?",
+   "gold": "Olympia",
+   "pred": "OLYMPIA",
+   "em": true
+  },
+  {
+   "q": "\"Four score and seven years ago our fathers brought forth on this continent a new nation, ",
+   "gold": "The Gettysburg Address",
+   "pred": "Gettysburg Address",
+   "em": true
+  },
+  {
+   "q": "What scientist sailed on the HMS Beagle?",
+   "gold": "Charles Darwin",
+   "pred": "Charles Darwin",
+   "em": true
+  },
+  {
+   "q": "In which Ayrshire village will you find the cottage birthplace of poet Robert Bums which i",
+   "gold": "Alloway",
+   "pred": "Alloway",
+   "em": true
+  },
+  {
+   "q": "Which comedy duo were born Bartholomew and Wiseman?",
+   "gold": "Morecambe and Wise",
+   "pred": "Mike and Bernie Winters",
+   "em": false
+  },
+  {
+   "q": "Who plays the title character in the recent BBC TV series 'Sherlock'?",
+   "gold": "BENEDICT CUMBERBATCH",
+   "pred": "BENEDICT CUMBERBATCH",
+   "em": true
+  },
+  {
+   "q": "Which country since the late 1900s has governed/overseen the increasing independence of th",
+   "gold": "France",
+   "pred": "France",
+   "em": true
+  },
+  {
+   "q": "What Monopoly square is furthest from Go?",
+   "gold": "Free Parking",
+   "pred": "Free Parking",
+   "em": true
+  },
+  {
+   "q": "Who was the lyre-playing muse of tragedy in Greek mythology?",
+   "gold": "MELPOMENE",
+   "pred": "Erato",
+   "em": false
+  },
+  {
+   "q": "Which US State is nicknamed The Beaver State?",
+   "gold": "OREGON",
+   "pred": "Oregon",
+   "em": true
+  },
+  {
+   "q": "A Long Island Iced Tea is a cocktail based on vodka, gin, tequila, and which other spirit?",
+   "gold": "Rum",
+   "pred": "BRANDY",
+   "em": false
+  },
+  {
+   "q": "In which stretch of water did the Mary Rose actually sink",
+   "gold": "The Solent",
+   "pred": "The Solent",
+   "em": true
+  },
+  {
+   "q": "What type of hat does Indiana Jones wear?",
+   "gold": "Fedora",
+   "pred": "Bowler",
+   "em": false
+  },
+  {
+   "q": "What is the US word for an automotive wheel nut or the brace used to loosen/tighten one?",
+   "gold": "Lug",
+   "pred": "Lug wrench",
+   "em": true
+  },
+  {
+   "q": "\"How is the title of Rossini's opera \"\"La Gazza Ladra\"\" usually translated into English?\"",
+   "gold": "The Thieving Magpie",
+   "pred": "The Thievish Cat",
+   "em": false
+  },
+  {
+   "q": "\"What play is about \"\"star-crossed lovers\"\"?\"",
+   "gold": "Romeo and Juliet",
+   "pred": "Romeo and Juliet",
+   "em": true
+  },
+  {
+   "q": "Which poet's house at 24 Hollies Street, London, was commemorated by the first Blue Plaque",
+   "gold": "Lord Byron",
+   "pred": "John Keats",
+   "em": false
+  },
+  {
+   "q": "Who is the United Nations and Arab League envoy to Syria?",
+   "gold": "KOFI ANNAN",
+   "pred": "Kofi Annan",
+   "em": true
+  },
+  {
+   "q": "Where in Canada is the Lion's Gate bridge?",
+   "gold": "Vancouver",
+   "pred": "Vancouver",
+   "em": true
+  },
+  {
+   "q": "The Bacillus Calmette-Guerin vaccine is used for immunisation against what?",
+   "gold": "Tuberculosis",
+   "pred": "Tuberculosis",
+   "em": true
+  },
+  {
+   "q": "What is the main attraction at both Altamira and Lascaux?",
+   "gold": "Cave paintings",
+   "pred": "Cave Paintings",
+   "em": true
+  },
+  {
+   "q": "In which race did Zola Budd and Mary Decker famously collide at the 1984 Olympics?",
+   "gold": "3000 metres",
+   "pred": "1500 metres",
+   "em": false
+  },
+  {
+   "q": "Creme Anglaise is the French version of which English dessert item?",
+   "gold": "Custard",
+   "pred": "CUSTARD",
+   "em": true
+  },
+  {
+   "q": "What is the name of the son of Pete Wentz and Ashlee Simpson-Wentz, who was born in Novemb",
+   "gold": "Bronx Mowgli",
+   "pred": "Jagger Snow",
+   "em": false
+  },
+  {
+   "q": "As at November 2007, who is the Shadow Home Secretary?",
+   "gold": "David Davis",
+   "pred": "Andy Burnham",
+   "em": false
+  },
+  {
+   "q": "Which battle, near York, in 1644, saw the end of 'Royalist' resistance in the north of Eng",
+   "gold": "MARSTON MOOR",
+   "pred": "Towton",
+   "em": false
+  }
+ ]
+}

@@ -1,0 +1,463 @@
+{
+ "base": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188",
+ "instruction": "Gather the wall torch from the wall.",
+ "qa": {
+  "question": "\"Which American film actor and comedian starred in such films as It's a Gift (1934) and 'What a Man\"\" (1941)\"",
+  "answer": "W. C. Fields",
+  "answer_ids": [
+   54,
+   13,
+   356,
+   13,
+   24580
+  ],
+  "insert_step": 10,
+  "answer_token_total": 5
+ },
+ "turns": [
+  {
+   "t": 0,
+   "user_text": "Gather the wall torch from the wall.\nobservation: \n",
+   "frame": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188_f000000.jpg",
+   "action_ids": [
+    151835,
+    151874,
+    151892,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_217|><|reserved_special_token_235|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 1,
+   "user_text": "observation: \n",
+   "frame": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188_f000001.jpg",
+   "action_ids": [
+    151835,
+    151869,
+    151887,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_212|><|reserved_special_token_230|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 2,
+   "user_text": "observation: \n",
+   "frame": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188_f000002.jpg",
+   "action_ids": [
+    151835,
+    151873,
+    151890,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_216|><|reserved_special_token_233|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 3,
+   "user_text": "observation: \n",
+   "frame": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188_f000003.jpg",
+   "action_ids": [
+    151835,
+    151876,
+    151895,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_219|><|reserved_special_token_238|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 4,
+   "user_text": "observation: \n",
+   "frame": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188_f000004.jpg",
+   "action_ids": [
+    151835,
+    151875,
+    151896,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_218|><|reserved_special_token_239|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 5,
+   "user_text": "observation: \n",
+   "frame": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188_f000005.jpg",
+   "action_ids": [
+    151835,
+    151871,
+    151903,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_214|><|reserved_special_token_246|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 6,
+   "user_text": "observation: \n",
+   "frame": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188_f000006.jpg",
+   "action_ids": [
+    151835,
+    151872,
+    151903,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_215|><|reserved_special_token_246|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 7,
+   "user_text": "observation: \n",
+   "frame": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188_f000007.jpg",
+   "action_ids": [
+    151835,
+    151872,
+    151905,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_215|><|reserved_special_token_248|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 8,
+   "user_text": "observation: \n",
+   "frame": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188_f000008.jpg",
+   "action_ids": [
+    151835,
+    151873,
+    151902,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_216|><|reserved_special_token_245|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 9,
+   "user_text": "observation: \n",
+   "frame": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188_f000009.jpg",
+   "action_ids": [
+    151835,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 10,
+   "user_text": "\"Which American film actor and comedian starred in such films as It's a Gift (1934) and 'What a Man\"\" (1941)\"\nobservation: \n",
+   "frame": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188_f000010.jpg",
+   "action_ids": [
+    151835,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": [
+    54,
+    13,
+    356,
+    13
+   ],
+   "text": "W. C."
+  },
+  {
+   "t": 11,
+   "user_text": "observation: \n",
+   "frame": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188_f000011.jpg",
+   "action_ids": [
+    151835,
+    151877,
+    151898,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_220|><|reserved_special_token_241|><|reserved_special_token_179|>",
+   "text_ids": [
+    24580
+   ],
+   "text": " Fields"
+  },
+  {
+   "t": 12,
+   "user_text": "observation: \n",
+   "frame": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188_f000012.jpg",
+   "action_ids": [
+    151835,
+    151877,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_220|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 13,
+   "user_text": "observation: \n",
+   "frame": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188_f000013.jpg",
+   "action_ids": [
+    151835,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 14,
+   "user_text": "observation: \n",
+   "frame": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188_f000014.jpg",
+   "action_ids": [
+    151835,
+    151872,
+    151892,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_215|><|reserved_special_token_235|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 15,
+   "user_text": "observation: \n",
+   "frame": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188_f000015.jpg",
+   "action_ids": [
+    151835,
+    151872,
+    151889,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_215|><|reserved_special_token_232|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 16,
+   "user_text": "observation: \n",
+   "frame": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188_f000016.jpg",
+   "action_ids": [
+    151835,
+    151880,
+    151902,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_223|><|reserved_special_token_245|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 17,
+   "user_text": "observation: \n",
+   "frame": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188_f000017.jpg",
+   "action_ids": [
+    151835,
+    151883,
+    151907,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_226|><|reserved_special_token_250|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 18,
+   "user_text": "observation: \n",
+   "frame": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188_f000018.jpg",
+   "action_ids": [
+    151835,
+    151882,
+    151905,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_225|><|reserved_special_token_248|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 19,
+   "user_text": "observation: \n",
+   "frame": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188_f000019.jpg",
+   "action_ids": [
+    151835,
+    151876,
+    151898,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_219|><|reserved_special_token_241|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 20,
+   "user_text": "observation: \n",
+   "frame": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188_f000020.jpg",
+   "action_ids": [
+    151835,
+    151880,
+    151901,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_223|><|reserved_special_token_244|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 21,
+   "user_text": "observation: \n",
+   "frame": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188_f000021.jpg",
+   "action_ids": [
+    151835,
+    151881,
+    151901,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_224|><|reserved_special_token_244|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 22,
+   "user_text": "observation: \n",
+   "frame": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188_f000022.jpg",
+   "action_ids": [
+    151835,
+    151877,
+    151898,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_220|><|reserved_special_token_241|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 23,
+   "user_text": "observation: \n",
+   "frame": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188_f000023.jpg",
+   "action_ids": [
+    151835,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 24,
+   "user_text": "observation: \n",
+   "frame": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188_f000024.jpg",
+   "action_ids": [
+    151835,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 25,
+   "user_text": "observation: \n",
+   "frame": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188_f000025.jpg",
+   "action_ids": [
+    151835,
+    151861,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 26,
+   "user_text": "observation: \n",
+   "frame": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188_f000026.jpg",
+   "action_ids": [
+    151835,
+    151861,
+    151876,
+    151897,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_240|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 27,
+   "user_text": "observation: \n",
+   "frame": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188_f000027.jpg",
+   "action_ids": [
+    151835,
+    151861,
+    151876,
+    151896,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_204|><|reserved_special_token_219|><|reserved_special_token_239|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 28,
+   "user_text": "observation: \n",
+   "frame": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188_f000028.jpg",
+   "action_ids": [
+    151835,
+    151870,
+    151888,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_213|><|reserved_special_token_231|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 29,
+   "user_text": "observation: \n",
+   "frame": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188_f000029.jpg",
+   "action_ids": [
+    151835,
+    151867,
+    151887,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_210|><|reserved_special_token_230|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  },
+  {
+   "t": 30,
+   "user_text": "observation: \n",
+   "frame": "shabby-pink-molly-d86e7ca569f6-20220323-180019-2158-2188_f000030.jpg",
+   "action_ids": [
+    151835,
+    151866,
+    151887,
+    151836
+   ],
+   "action": "<|reserved_special_token_178|><|reserved_special_token_209|><|reserved_special_token_230|><|reserved_special_token_179|>",
+   "text_ids": null,
+   "text": null
+  }
+ ]
+}

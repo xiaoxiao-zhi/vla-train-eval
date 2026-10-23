@@ -1,0 +1,28 @@
+defaults:
+  - base
+  - _self_
+
+candidate_preferred_spawn_biome: 
+  - "forest"
+
+task_conf:
+  - name: "mine"
+    text: "mine_block:stone"
+
+# 初始化: 在玩家脚下一层铺 4x4 石头 (相对坐标, 每次 reset 随机传送后重新生效),
+# 把任务从"找石头+挖"降为"挖"; 用 stone 与 reward_conf 判定对齐
+command:
+  - "/execute as @p at @s run fill ~-1 ~-1 ~-1 ~2 ~-1 ~2 minecraft:stone"
+
+reward_conf:
+  - event: "mine_block"
+    max_reward_times: 1
+    reward: 1.0
+    objects: 
+      - "stone"
+    identity: "craft stone"
+
+init_inventory: 
+  - slot: 1
+    type: "stone_pickaxe"
+    quantity: 1
